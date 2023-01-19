@@ -1,7 +1,6 @@
-/**
- * Credit: Will be released after the due date
+/*
  * Modified by: Dr. Hani Z. Girgis
- * Purpose a super class for all employees in a company
+ * Purpose: a super class for all employees in a company
  */
 public abstract class Employee{
 	private String firstName;
