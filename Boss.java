@@ -1,6 +1,6 @@
 /*
  * Modified: Dr. Hani Z. Girgis
- * Purpose a conceret class representing a Boss
+ * Purpose: a conceret class representing a Boss
  * A boss is paid a fixed weekly salary
  */
 public class Boss extends Employee{
